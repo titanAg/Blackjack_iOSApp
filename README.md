@@ -8,50 +8,64 @@
 ## Gameplay
 
 ### Add New Player
-![image](https://user-images.githubusercontent.com/97991414/167066755-21417a2c-3531-41e7-9aa9-dd677251b80a.png)
+![AddNewPlayer](https://user-images.githubusercontent.com/97991414/167067273-662da9f9-ca28-4994-a37d-2c2e4d9f6822.gif)
+
 
 
 ### Update Player
-![image](https://user-images.githubusercontent.com/97991414/167066773-db59d926-df0c-4e29-8954-514f3e115824.png)
+![UpdatePlayer](https://user-images.githubusercontent.com/97991414/167067281-4299c2e4-efe4-44c0-ba98-7a823f329c77.gif)
+
 
 
 ### Select Player
-![image](https://user-images.githubusercontent.com/97991414/167066797-7c7897e9-8b8a-4dd7-97a1-b021facce657.png)
+![SelectPlayer](https://user-images.githubusercontent.com/97991414/167067296-ddea921a-1a6c-4b41-9ff7-ffc476786510.gif)
+
 
 
 ### Delete Player
-![image](https://user-images.githubusercontent.com/97991414/167066817-74583b78-f001-4a84-9248-73a32b1dcde6.png)
+![DeletePlayer](https://user-images.githubusercontent.com/97991414/167067311-d32a6f61-43fe-4a27-a0b0-b5b77cd0bb8a.gif)
+
 
 ### Game Start
-![image](https://user-images.githubusercontent.com/97991414/167066849-40f6cc79-e715-46f1-ae49-0ceee68144e5.png)
+![GameStart](https://user-images.githubusercontent.com/97991414/167067326-6b187d0e-ffab-4975-be1f-f367e5b1e32c.gif)
+
 
 ### Place Bet And Deal
-![image](https://user-images.githubusercontent.com/97991414/167066868-1b115d5f-2d38-4460-9e92-b66549f8b7c6.png)
+![PlaceBetAndDeal](https://user-images.githubusercontent.com/97991414/167067335-4638f40b-82f9-4c03-a48d-54b00e5d79cc.gif)
+
 
 ### Hit Player (Recursive Completion Closures)
-![image](https://user-images.githubusercontent.com/97991414/167066892-a1e69cc6-8322-48a2-8a9f-a4dfdb938b31.png)
+![HitPlayer(RecursiveCompletionClosures)](https://user-images.githubusercontent.com/97991414/167067371-75a0c824-5335-4cd1-8b0f-e3dd0b37a612.gif)
+
 
 ### Stand (Recursive Completion Closures)
-![image](https://user-images.githubusercontent.com/97991414/167066917-abe3bfa1-1a2a-44b2-901c-a7625885665e.png)
+![Stand(RecursiveCompletionClosures)](https://user-images.githubusercontent.com/97991414/167067390-4ef916a4-96c1-4e2c-bafb-ddd2177a11fb.gif)
+
 
 ### Game Over Dialog - Bust
-![image](https://user-images.githubusercontent.com/97991414/167066953-29e343b2-782d-4979-9312-59d4475043d5.png)
+![GameOverDialog-Bust](https://user-images.githubusercontent.com/97991414/167067409-369e30b6-e602-4d7b-b375-c095e7bd22c4.gif)
+
 
 ### Game Over Dialog - Win
-![image](https://user-images.githubusercontent.com/97991414/167066976-4fc3488a-0771-417b-b6cd-d5eba7c64af4.png)
+![GameOverDialog-Win](https://user-images.githubusercontent.com/97991414/167067428-8047cdef-5c43-4472-b1ca-00617859820c.gif)
+
 
 ### Game Over Dialog - Loss
+![GameOverDialog-Loss](https://user-images.githubusercontent.com/97991414/167067452-1b37308e-9685-4bf0-9805-952241359f02.gif)
 
-![image](https://user-images.githubusercontent.com/97991414/167066996-7db3436e-86be-485f-ae35-efcc6218c418.png)
 
 ### Minigame
-![image](https://user-images.githubusercontent.com/97991414/167067011-de69a0d9-69b2-4903-ab39-e99484ea1eef.png)
+![MiniGame](https://user-images.githubusercontent.com/97991414/167067459-396b2735-4910-4ac9-a337-f7e6d00a55eb.gif)
+
 
 ### MiniGame From Menu
-![image](https://user-images.githubusercontent.com/97991414/167067033-29618c6a-d8ee-4702-86f1-57bae4cca2d0.png)
+![MiniGame-FromMenu](https://user-images.githubusercontent.com/97991414/167067471-90224686-ef4e-4c71-b3f7-6b00443110e6.gif)
+
 
 ### Quit Game
-![image](https://user-images.githubusercontent.com/97991414/167067047-d84f5c58-31e6-4abf-bd69-35dd2ca233f7.png)
+![QuitGame](https://user-images.githubusercontent.com/97991414/167067481-a864a3e0-4987-4629-b867-18839331ae60.gif)
+
 
 ### Exit App
-![image](https://user-images.githubusercontent.com/97991414/167067063-5a5dd930-fed7-43e2-8174-af6797cc1daa.png)
+![ExitApp](https://user-images.githubusercontent.com/97991414/167067499-6ef66eed-4c67-4cf7-939b-d41f1b0b9a37.gif)
+
