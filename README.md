@@ -1,5 +1,7 @@
 # Blackjack_iOSApp
 
+### Very cool Blackjack game for iOS I created in my 4th year.
+
 ![image](https://user-images.githubusercontent.com/97991414/167066662-df9dc4ca-fbc8-4c1a-a974-8c76a3285662.png)
 
 ![image](https://user-images.githubusercontent.com/97991414/167066693-91af3684-0f21-44fd-a721-800e3ee19a7a.png)
